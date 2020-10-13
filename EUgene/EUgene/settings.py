@@ -67,7 +67,7 @@ INSTALLED_APPS = [
 
   
     'bootstrap4',
-    'EUgene.portfolio.apps',
+    'EUgene.portfolio.apps.PortfolioConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

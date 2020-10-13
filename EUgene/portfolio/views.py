@@ -11,7 +11,7 @@ from .models import Image
 # displaying different photo categories
 def photo_category(request):
     date = dt.date.today()## current date
-    portfolio = Image.objects.all
+    portfolio = Image.objects.all()
     return render(request, 'all-folios/category.html', {"date": date, "portfolio": portfolio})
 
 
