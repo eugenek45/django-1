@@ -89,7 +89,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'EUgene.urls'
+ROOT_URLCONF = 'EUgene.EUgene.urls'
 
 TEMPLATES = [
     {
