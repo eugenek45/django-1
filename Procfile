@@ -1,1 +1,1 @@
-web: gunicorn EUgene.EUgene.wsgi --log-file -
+web: gunicorn EUgene.wsgi --log-file -
