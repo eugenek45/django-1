@@ -18,7 +18,7 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/login', admin.site.urls), 
-    url(r'',include('portfolio.urls'))
+    url(r'',include('EUgene.portfolio.urls'))
 
 ]
 # /   lgin
