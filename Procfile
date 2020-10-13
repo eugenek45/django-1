@@ -1,0 +1,1 @@
+web: gunicorn EUgene.wsgi --log-file -
