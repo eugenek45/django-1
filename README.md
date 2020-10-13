@@ -23,7 +23,7 @@ pick45.herokuapp.com/
 * When  > user clicks on an image 
 * Then > user reads details about the image
 ## Support and contact details
-In case of any questions, or tips email me at "caiseyann4@gmail.com" 
+In case of any questions, or tips email me at "Eugenekiprotich0@gmail.com" 
 * Also feel free to fork, clone this project and make any necessary changes.
 ### License
 *MIT*
